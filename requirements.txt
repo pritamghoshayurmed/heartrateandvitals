@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+opencv-python
+numpy
+scipy
+pandas
+scikit-learn
+xgboost
+matplotlib
+pyyaml
+python-multipart
+pydantic
+python-dotenv
+joblib
+pillow
