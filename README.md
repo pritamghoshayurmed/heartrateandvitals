@@ -1,4 +1,4 @@
-# PPG Vitals Analysis Microservice
+ki# PPG Vitals Analysis Microservice
 
 This microservice analyzes PPG (Photoplethysmography) signals from smartphone camera video to extract vital signs including heart rate, heart rate variability, and respiratory rate.
 
@@ -137,3 +137,4 @@ Edit `ppg_processor.py` to adjust:
 ## License
 
 MIT License - Based on seeing-red research by SSL Oxford
+this is in testing level doesn't provide accurate results 
